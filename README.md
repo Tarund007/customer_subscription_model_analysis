@@ -123,18 +123,13 @@ ORDER BY avg_probability DESC;
 ## 📂 Repository Structure
 ```text
 ├── data/
-│   ├── customer_shopping_behavior.csv
 │   └── customer_subscription_predictions.csv
 ├── scripts/
 │   ├── data_preprocessing.py
 │   └── ml_model_training.py
-├── sql/
-│   └── postgresql_queries.sql
 ├── dashboard/
-│   └── subscription_propensity_dashboard.pbix
-└── docs/
-    ├── Subscription_Conversion_Propensity_Complete_Handbook.docx
-    └── Candidate_Interview_Masterclass_Guide.docx
+   └── subscription_propensity_dashboard.pbix
+
 ```
 
 ---
